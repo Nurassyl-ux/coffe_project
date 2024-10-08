@@ -1,0 +1,121 @@
+body {
+    color: #3d2a2c;
+    background-color: #efeae4;
+    font-weight: 700;
+}
+.container{
+    width: 700px;
+    margin: 0 auto;
+}
+
+
+.header {
+    background-image: url(../../../coffe.jpg);
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    font-family: "Soli Px W01 Bold";
+    height: 200px;
+    width: 100%;
+    color: #3d2a2c;
+
+    
+    }
+.roasting {
+    width: 680px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 1px;
+    text-align: center;
+
+}
+.spectrum {
+    color: white;
+    text-align: left;
+}
+
+.green {
+    background-color: #a2c29d;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+.light {
+    background-color: #9f6648;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+.city {
+    background-color: #8d5b36;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+.vienna {
+    background-color:#a24744 ;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+.italian {
+    background-color:#191919;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+.spectrum, h4, p {
+    font-family: "Raleway", sans-serif;
+    font-size: medium;
+    font-weight: 800;
+    
+}
+h5 {
+    font-weight: 100;
+}
+.spectrum, p {
+    font-size: x-small;
+    font-weight: 500;
+}
+.title {
+    font-family: "Raleway", sans-serif;
+    font-size: x-small;
+    font-weight: 700;
+
+}
+h3 {
+    font-family: "Raleway", sans-serif;
+    font-size: medium;
+    font-weight: 500;
+}
+.ulab h2 {
+    margin-top: 50px;
+    font-size: 12px;
+    color: #e3bb97;
+    text-transform: uppercase;
+}
+
+.ulab p {
+    font-size: 8px;
+}
+
+.ulab * {
+    margin-bottom: 5px;
+}
+
+.ulab a {
+    display: block;
+    font-size: 5px;
+    text-transform: uppercase;
+    color: #486b55;
+    font-weight: 900;
+    border-bottom: 1px solid #e3bb97;
+    padding: 0 0 20px 0;
+    
+}
